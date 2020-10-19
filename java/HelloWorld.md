@@ -1,3 +1,3 @@
 **Hello world!**
 
-![apache log](./HelloWorld.assets/feather_small.gif)
+![apache logo](./HelloWorld.assets/feather_small.gif)
